@@ -1,0 +1,11 @@
+2021/2022 - Développeur Mobile - Apprentissage
+Page Up
+Au sein de la société de PAGE UP, mon rôle est de développer des applications mobiles sur mesure en Kotlin pour des clients.
+
+2020 - Développeur back-end - Stage 
+Agence i-com
+Au sein de la société i-com, ma mission était de développer une extension en PHP natif sur une plateforme qui permettait d'optimiser le temps de travail des salariés.
+
+Novembre 2021 - Hackathon
+Ag'Kathon
+Participation à un hackathon sur le thème de la transformation numérique dans le monde l'agriculture. Ma mission était, en un week-end, de développer une plateforme qui permettrait de prévoir la météo afin que la éleveurs puisse anticiper leurs mouvements. (avec VueJS)
